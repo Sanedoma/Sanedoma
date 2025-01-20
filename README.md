@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanedoma
 - 👀 I’m interested in Programation
-- 🌱 I’m currently learning php, C, and c#
+- 🌱 I’m currently learning java, Symfony, C, and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail: ous.ndiaye470@gmail.com number: 0602418061
 - 😄 Pronouns: ...
